@@ -1,0 +1,41 @@
+.userinfo{
+    /* border: 1px solid; */
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.user{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+/* border: 1px solid; */
+    
+}
+
+.cgprofile{
+        height: 100%;
+        width: 100%;
+}
+
+.icons{
+    display: flex;
+    gap: 10px;
+
+}
+.icons-1{
+    height: 20px;
+    width: 20px;
+   cursor: pointer;
+}
